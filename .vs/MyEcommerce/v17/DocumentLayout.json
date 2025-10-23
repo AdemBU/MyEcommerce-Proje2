@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ademc\\Desktop\\Proje-2\\MyEcommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87A235FA-778D-4B17-9861-C1D27661CC36}|src\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|c:\\users\\ademc\\desktop\\proje-2\\myecommerce\\src\\authservice\\authservice.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A235FA-778D-4B17-9861-C1D27661CC36}|src\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:src\\authservice\\authservice.infrastructure\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC563E2-327E-40DF-AB42-C41298E8E8AE}|src\\AuthService\\AuthService.Core\\AuthService.Core.csproj|c:\\users\\ademc\\desktop\\proje-2\\myecommerce\\src\\authservice\\authservice.core\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC563E2-327E-40DF-AB42-C41298E8E8AE}|src\\AuthService\\AuthService.Core\\AuthService.Core.csproj|solutionrelative:src\\authservice\\authservice.core\\interfaces\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A235FA-778D-4B17-9861-C1D27661CC36}|src\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|c:\\users\\ademc\\desktop\\proje-2\\myecommerce\\src\\authservice\\authservice.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A235FA-778D-4B17-9861-C1D27661CC36}|src\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:src\\authservice\\authservice.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC563E2-327E-40DF-AB42-C41298E8E8AE}|src\\AuthService\\AuthService.Core\\AuthService.Core.csproj|c:\\users\\ademc\\desktop\\proje-2\\myecommerce\\src\\authservice\\authservice.core\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC563E2-327E-40DF-AB42-C41298E8E8AE}|src\\AuthService\\AuthService.Core\\AuthService.Core.csproj|solutionrelative:src\\authservice\\authservice.core\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC563E2-327E-40DF-AB42-C41298E8E8AE}|src\\AuthService\\AuthService.Core\\AuthService.Core.csproj|c:\\users\\ademc\\desktop\\proje-2\\myecommerce\\src\\authservice\\authservice.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC563E2-327E-40DF-AB42-C41298E8E8AE}|src\\AuthService\\AuthService.Core\\AuthService.Core.csproj|solutionrelative:src\\authservice\\authservice.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCB37C3-C69F-453B-9AC8-9F78BEE7F6A8}|src\\AuthService\\AuthService.Api\\AuthService.Api.csproj|c:\\users\\ademc\\desktop\\proje-2\\myecommerce\\src\\authservice\\authservice.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCCB37C3-C69F-453B-9AC8-9F78BEE7F6A8}|src\\AuthService\\AuthService.Api\\AuthService.Api.csproj|solutionrelative:src\\authservice\\authservice.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCB37C3-C69F-453B-9AC8-9F78BEE7F6A8}|src\\AuthService\\AuthService.Api\\AuthService.Api.csproj|c:\\users\\ademc\\desktop\\proje-2\\myecommerce\\src\\authservice\\authservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCCB37C3-C69F-453B-9AC8-9F78BEE7F6A8}|src\\AuthService\\AuthService.Api\\AuthService.Api.csproj|solutionrelative:src\\authservice\\authservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ademc\\Desktop\\Proje-2\\MyEcommerce\\src\\AuthService\\AuthService.Infrastructure\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "src\\AuthService\\AuthService.Infrastructure\\Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\ademc\\Desktop\\Proje-2\\MyEcommerce\\src\\AuthService\\AuthService.Infrastructure\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "src\\AuthService\\AuthService.Infrastructure\\Repositories\\AuthRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:31:15.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ademc\\Desktop\\Proje-2\\MyEcommerce\\src\\AuthService\\AuthService.Core\\Interfaces\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "src\\AuthService\\AuthService.Core\\Interfaces\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\ademc\\Desktop\\Proje-2\\MyEcommerce\\src\\AuthService\\AuthService.Core\\Interfaces\\IAuthRepository.cs",
+              "RelativeToolTip": "src\\AuthService\\AuthService.Core\\Interfaces\\IAuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:29:27.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ademc\\Desktop\\Proje-2\\MyEcommerce\\src\\AuthService\\AuthService.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\AuthService\\AuthService.Infrastructure\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ademc\\Desktop\\Proje-2\\MyEcommerce\\src\\AuthService\\AuthService.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "src\\AuthService\\AuthService.Infrastructure\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:23:22.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppException.cs",
+              "DocumentMoniker": "C:\\Users\\ademc\\Desktop\\Proje-2\\MyEcommerce\\src\\AuthService\\AuthService.Core\\Exceptions\\AppException.cs",
+              "RelativeDocumentMoniker": "src\\AuthService\\AuthService.Core\\Exceptions\\AppException.cs",
+              "ToolTip": "C:\\Users\\ademc\\Desktop\\Proje-2\\MyEcommerce\\src\\AuthService\\AuthService.Core\\Exceptions\\AppException.cs",
+              "RelativeToolTip": "src\\AuthService\\AuthService.Core\\Exceptions\\AppException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:22:34.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ademc\\Desktop\\Proje-2\\MyEcommerce\\src\\AuthService\\AuthService.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\AuthService\\AuthService.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ademc\\Desktop\\Proje-2\\MyEcommerce\\src\\AuthService\\AuthService.Core\\Entities\\User.cs",
+              "RelativeToolTip": "src\\AuthService\\AuthService.Core\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:21:57.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ademc\\Desktop\\Proje-2\\MyEcommerce\\src\\AuthService\\AuthService.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\AuthService\\AuthService.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ademc\\Desktop\\Proje-2\\MyEcommerce\\src\\AuthService\\AuthService.Api\\appsettings.Development.json",
+              "RelativeToolTip": "src\\AuthService\\AuthService.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-23T12:18:51.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ademc\\Desktop\\Proje-2\\MyEcommerce\\src\\AuthService\\AuthService.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\AuthService\\AuthService.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\ademc\\Desktop\\Proje-2\\MyEcommerce\\src\\AuthService\\AuthService.Api\\appsettings.json",
+              "RelativeToolTip": "src\\AuthService\\AuthService.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-23T12:18:48.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
